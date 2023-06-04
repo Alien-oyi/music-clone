@@ -1,3 +1,15 @@
-{
-  "extends": "next/core-web-vitals"
-}
+module.exports = {
+  "extends": "next/core-web-vitals",
+  parserOptions: {
+    project: './tsconfig.json', // Path to your tsconfig.json file
+  },
+  plugins: ['import', 'import-helpers'],
+  rules: {
+    // Add your ESLint rules here
+  },
+  settings: {
+    'import/resolver': {
+      typescript: {}, // Enable TypeScript support for import/resolver
+    },
+  },
+};
