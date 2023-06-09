@@ -26,7 +26,7 @@ https://music-clone-murex.vercel.app/
 None
 
 ## Usage
-If you wanna upload music,you have to subscribe to the premium plan with test credit card number: 4242 4242 4242 4242,the other info are not important.
+If you wanna upload music(mp3 file only),you have to subscribe to the premium plan with test credit card number: 4242 4242 4242 4242,the other info are not important.Then click the + button in the sidebar to upload your music.
 ## Contributing
 youtuber: code with Antonio
 
