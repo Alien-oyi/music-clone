@@ -47,7 +47,8 @@ const Library: React.FC<LibraryProps> = ({
           className="
             text-neutral-400 
             cursor-pointer 
-            hover:text-white 
+            hover:text-green-500
+            hover:scale-125
             transition
           "
         />
